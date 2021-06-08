@@ -1,0 +1,5 @@
+/mnt/c/Users/Park Hong Geun/Desktop/2021학년도 1학기/알고리즘/Graph-Pattern-Matching-Challenge/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Park Hong Geun/Desktop/2021학년도 1학기/알고리즘/Graph-Pattern-Matching-Challenge/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Park Hong Geun/Desktop/2021학년도 1학기/알고리즘/Graph-Pattern-Matching-Challenge/build/main/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Park Hong Geun/Desktop/2021학년도 1학기/알고리즘/Graph-Pattern-Matching-Challenge/build/main/CMakeFiles/program.dir
+/mnt/c/Users/Park Hong Geun/Desktop/2021학년도 1학기/알고리즘/Graph-Pattern-Matching-Challenge/build/main/CMakeFiles/edit_cache.dir
